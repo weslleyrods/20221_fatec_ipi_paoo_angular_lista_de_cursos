@@ -6,28 +6,16 @@
 
 ## Integrantes
 
-<ul>
-    <li>
-        Luan Luiz Teixeira da Silva - 2040482022002
-        <a href="https://github.com/luanLTS">
-            <i class="bi bi-github"></i>
-        </a>
-    </li>
-    <li>
-        Ranayna Alves de Oliveira - 2040482022016
-        <a href="https://github.com/Ranayna">
-            <i class="bi bi-github"></i>
-        </a>
-    </li>
-    <li>
-        Weslley Rodrigues Leite da Silva - 2040482022008
-        <a href="https://github.com/weslleyrods">
-            <i class="bi bi-github"></i>
-        </a>
-    </li>
-</ul>
+Luan Luiz Teixeira da Silva - 2040482022002</br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/luanLTS) 
 
-#
+Ranayna Alves de Oliveira - 2040482022016</br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Ranayna)
+
+Weslley Rodrigues Leite da Silva - 2040482022008</br>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/weslleyrods)
+
+<hr>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
