@@ -1,0 +1,14 @@
+<div class="container py-3">
+    
+    <div *ngFor="let curso of cursos">
+        <app-curso
+        [nome]="curso.curso"
+        [duracao]="curso.cargaHoraria"
+        ></app-curso>
+    </div>
+    
+<div class="d-grid gap-2 py-2">
+        <button class="btn btn-success" type="button" (click)="escolherAleatorio()">Escolher pra mim</button>
+    </div>
+    <app-curso *ngIf="isVisible" [nome]="cursos[numero].curso" [duracao]="cursos[numero].cargaHoraria"></app-curso>
+</div>    

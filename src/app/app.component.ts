@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'lista-de-cursos';
+
+  name = "luan"
+  
+
+  // consultarCursos(){
+  //   for(let cursos of this.cursos ){
+  //     const{curso, cargaHoraria} = cursos
+  //     console.log(`Curso${curso}
+  //     Carga Horaria ${cargaHoraria}
+  //     `)
+  //   }
+  // }
 }

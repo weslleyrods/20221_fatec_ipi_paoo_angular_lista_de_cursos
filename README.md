@@ -1,4 +1,33 @@
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+</head>
+
 # ListaDeCursos
+
+## Integrantes
+
+<ul>
+    <li>
+        Luan Luiz Teixeira da Silva - 2040482022002
+        <a href="https://github.com/luanLTS">
+            <i class="bi bi-github"></i>
+        </a>
+    </li>
+    <li>
+        Ranayna Alves de Oliveira - 2040482022016
+        <a href="https://github.com/Ranayna">
+            <i class="bi bi-github"></i>
+        </a>
+    </li>
+    <li>
+        Weslley Rodrigues Leite da Silva - 2040482022008
+        <a href="https://github.com/weslleyrods">
+            <i class="bi bi-github"></i>
+        </a>
+    </li>
+</ul>
+
+#
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
